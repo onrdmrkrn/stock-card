@@ -83,8 +83,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="SwingApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingApplication" />
       <module name="stock_card" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,7 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SwingApplication" />
       </list>
     </recent_temporary>
   </component>

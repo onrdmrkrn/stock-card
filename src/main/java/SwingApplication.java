@@ -2,7 +2,7 @@ import ui.MainWindow;
 
 import javax.swing.*;
 
-public class Test {
+public class SwingApplication {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
 
